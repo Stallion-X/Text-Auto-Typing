@@ -7,6 +7,9 @@
 
 An automatic typing program developed by Qt due to the poor experience of homework system.
 
+暂时只放加壳Release版本，随后放出源代码
+
+
 
 更新日志
 
