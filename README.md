@@ -8,4 +8,4 @@ An automatic typing program developed by Qt due to the poor experience of homewo
 
 蒟蒻的练手拙作，界面简陋，功能简易，代码质量差，介意勿用
 
-暂时只放加壳Release版本，随后放出源代码
+出于懂得都懂的原因，暂时只放加壳Release版本，随后放出源代码
