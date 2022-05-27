@@ -11,3 +11,5 @@ An automatic typing program developed by Qt due to the poor experience of homewo
 蒟蒻的练手拙作，界面简陋，功能简易，代码质量差，介意勿用
 
 出于懂得都懂的原因，暂时只放加壳Release版本，随后放出源代码
+
+如果你也是为了在学校作业系统等环境中使用自动输入 请切勿乱传本仓库链接 切勿让老师看到源代码 否则后果自负
