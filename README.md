@@ -18,7 +18,7 @@ An automatic typing program developed by Qt due to the poor experience of homewo
 
 # 简易的使用说明
 
-左上角Options-Settings可自定义设置
+左上角Option-Settings可自定义设置
 
 模式1适用于任何场景
 
