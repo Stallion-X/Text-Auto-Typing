@@ -13,3 +13,6 @@ An automatic typing program developed by Qt due to the poor experience of homewo
 出于懂得都懂的原因，暂时只放加壳Release版本，随后放出源代码
 
 如果你也是为了在学校作业系统等环境中使用自动输入 请切勿乱传本仓库链接 切勿让老师看到源代码 否则后果自负
+
+模式1适用于任何场景
+模式2仅适用于部分使用Windows原生GUI控件的场景
