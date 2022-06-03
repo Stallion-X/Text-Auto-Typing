@@ -14,7 +14,7 @@ An automatic typing program developed by Qt due to the poor experience of homewo
 
 如果你也是为了在学校作业系统、实验系统、考试系统等环境中使用自动输入 请切勿乱传本仓库链接 切勿让老师看到源代码 否则后果自负
 
-以后有时间了可能会更新快捷键输入模式 以及改进输入方式
+以后有时间了可能会更新快捷键输入模式 以及改进输入方式 甚至加入跨平台功能
 
 # 简易的使用说明
 
