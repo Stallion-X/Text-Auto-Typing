@@ -1,4 +1,4 @@
-# Text_Auto_Typing
+# Text-Auto-Typing
 
 文本自动输入器
 
